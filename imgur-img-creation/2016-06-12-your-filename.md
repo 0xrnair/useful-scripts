@@ -1,6 +1,6 @@
 ## README
 
-# Requirements
+# Requirements:  
 	pip install -r requirements.txt
 
 Run script using
