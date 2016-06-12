@@ -6,4 +6,4 @@
 Run script using
 Example:
 
-	.\/imgur.py http:\/\/imgur.com\/gallery\/lEO6APO
+	./imgur.py http://imgur.com/gallery/lEO6APO
